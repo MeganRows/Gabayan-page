@@ -1,2 +1,4 @@
 # Gabayan-page
-just a repo for my webpage
+I'm Meagan Rose D. Gabayan
+Currently taking Bachelor of Science in Computer Science
+I live in Coron, Palawan
