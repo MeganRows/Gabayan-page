@@ -1,2 +1,2 @@
 # Gabayan-page
-just another repo
+just a repo for my webpage
